@@ -8,6 +8,9 @@ int main()
     int x = 0;
     if(x == 0)
         std::cout << "Hello World!\n";
+    else
+        std::cout << "Hello World!\n";
+
 
     
 
